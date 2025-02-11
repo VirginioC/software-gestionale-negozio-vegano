@@ -23,7 +23,7 @@ Per rendere il software persistente le informazioni inserite in ogni esecuzione 
 ## Tecnologie utilizzate
 - **Linguaggio**: Python
 - **Ambiente di sviluppo**: Google Colab (Jupyter Notebook)
-- **Librerie**: `os`, `csv`
+- **Moduli utilizzati**: `os`, `csv`
 
 ## Come eseguire il software
 1. Clona o scarica il repository.
