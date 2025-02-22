@@ -1,7 +1,7 @@
 # Software gestionale per un negozio vegano
 
 ## Descrizione
-Questo progetto, prodotto durante il Master in Data Science di Profession AI, consiste nel realizzare un software gestionale per un negozio vegano utilizzando il linguaggio **Python** e l'ambiente **Google Colab**. 
+Questo progetto, prodotto durante il Master in Data Science di ProfessionAI, consiste nel realizzare un software gestionale per un negozio vegano utilizzando il linguaggio **Python** e l'ambiente **Google Colab**. 
 L'obiettivo è offrire uno strumento che consenta di gestire l'inventario, tracciare gli ordini e ottenere report dettagliati sulle vendite.
 
 Il software è testuale, quindi utilizzabile da riga di comando, e persistente: le informazioni inserite dall'utente vengono mantenute tra diverse esecuzioni del programma.
